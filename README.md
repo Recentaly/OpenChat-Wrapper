@@ -23,7 +23,7 @@ Follow the steps below to set up and run the OpenChat Wrapper on your local mach
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/OpenChat-Wrapper.git
+   git clone https://github.com/Recentaly/OpenChat-Wrapper.git
    ```
 
 2. Navigate to the project directory:
