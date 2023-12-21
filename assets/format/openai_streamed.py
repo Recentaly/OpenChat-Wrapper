@@ -9,8 +9,6 @@ from json import dumps
 # this function returns a streamed OpenAI-type response
 def get_openai_streamed(model: Pointer, content: str) -> OpenAI_Streamed | dict[str | int]:
 
-    print(from_address(model))
-
     return dumps({
         "object": "chat.completion.chunk",
         "model": f"{from_address(model).id}",
