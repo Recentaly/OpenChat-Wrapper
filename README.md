@@ -87,3 +87,30 @@ The root endpoint returns a simple "Hello World!" message. This is to ensure the
 Feel free to contribute to this project by submitting issues or pull requests!
 
 Happy chatting with OpenChat! 🚀
+
+<br>
+
+<table>
+  <tr>
+     <td>
+       <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/AGPLv3_Logo.svg" width="90%"></img>
+    </td>
+    <td> 
+      <img src="https://img.shields.io/badge/GNU_AGPL_v3.0-purple.svg"/> <br> 
+This project is licensed under the <a href="./LICENSE">GNU_AGPL_v3.0</a>.<img width=2300/>
+    </td>
+  </tr>
+</table>
+<br>
+
+<table>
+  <tr>
+     <td>
+       <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width="80%"></img>
+    </td>
+    <td> 
+      <img src="https://img.shields.io/badge/Google_Colab-orange"/> <br> 
+<a href="https://colab.research.google.com/drive/113oKurAagHrfVFGrkm1NXq1xQmBK_llJ?usp=sharing">Also hosted on google colab</a>.<img width=2300/>
+    </td>
+  </tr>
+</table>
