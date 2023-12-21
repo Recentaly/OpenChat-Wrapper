@@ -118,7 +118,7 @@ def chat():
     )
 
     # return the response
-    return jsonify(response), 200
+    return jsonify(get_openai_generic(id(OpenChatAura), id('assistant'), response, id('stop'))), 200
 
 # this route handles all requests to get a list of the models
 @app.route('/models', methods=['GET'])
