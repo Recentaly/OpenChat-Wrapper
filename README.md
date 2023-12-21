@@ -15,7 +15,8 @@ Follow the steps below to set up and run the OpenChat Wrapper on your local mach
 ### Prerequisites
 
 - Python 3.x (3.10 tested only)
-- Flask (`pip install Flask`)
+- Flask (`pip install flask`)
+- Flask CORS (`pip install flask_cors`)
 - Requests (`pip install requests`)
 
 ### Installation
