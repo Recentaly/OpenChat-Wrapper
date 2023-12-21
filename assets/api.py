@@ -42,8 +42,6 @@ class Api():
             "temperature": temperature
         }
 
-        print(data)
-
         # make the request
         with self.session.post(self.url, json=data, headers=self.headers) as response:
 
